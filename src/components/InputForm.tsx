@@ -5,6 +5,10 @@ interface InputFormComponentProps {
 }
 
 interface InputFormComponentStates {
+
+state: {
+    temperature: number
+}
 }
 
 
